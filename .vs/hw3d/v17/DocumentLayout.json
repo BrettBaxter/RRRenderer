@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brett\\Documents\\Projects\\hw3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F037378-92CB-4942-972A-88EA99EB6F5B}|hw3d\\hw3d.vcxproj|C:\\Users\\Brett\\Documents\\Projects\\hw3d\\hw3d\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F037378-92CB-4942-972A-88EA99EB6F5B}|hw3d\\hw3d.vcxproj|solutionrelative:hw3d\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "C:\\Users\\Brett\\Documents\\Projects\\hw3d\\hw3d\\WinMain.cpp",
+              "RelativeDocumentMoniker": "hw3d\\WinMain.cpp",
+              "ToolTip": "C:\\Users\\Brett\\Documents\\Projects\\hw3d\\hw3d\\WinMain.cpp",
+              "RelativeToolTip": "hw3d\\WinMain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T23:33:40.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
