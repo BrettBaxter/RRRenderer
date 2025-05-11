@@ -1,2 +1,3 @@
 ﻿  WinMain.cpp
+C:\Users\Brett\Documents\GitHub\RRRenderer\hw3d\WinMain.cpp(65,13): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
   hw3d.vcxproj -> C:\Users\Brett\Documents\GitHub\RRRenderer\x64\Debug\hw3d.exe
