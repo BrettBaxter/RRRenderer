@@ -1,5 +1,4 @@
-﻿  BrettException.cpp
+﻿  WinMain.cpp
   Window.cpp
-  WinMain.cpp
-C:\Users\Brett\Documents\GitHub\RRRenderer\hw3d\WinMain.cpp(22,13): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Brett\Documents\GitHub\RRRenderer\hw3d\WinMain.cpp(26,13): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
   hw3d.vcxproj -> C:\Users\Brett\Documents\GitHub\RRRenderer\x64\Debug\hw3d.exe
