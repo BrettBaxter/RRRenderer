@@ -138,6 +138,7 @@
   <ItemGroup>
     <ClCompile Include="BrettException.cpp" />
     <ClCompile Include="Keyboard.cpp" />
+    <ClCompile Include="Mouse.cpp" />
     <ClCompile Include="Window.cpp" />
     <ClCompile Include="WinMain.cpp" />
   </ItemGroup>
@@ -145,6 +146,7 @@
     <ClInclude Include="BrettException.h" />
     <ClInclude Include="ChiliWin.h" />
     <ClInclude Include="Keyboard.h" />
+    <ClInclude Include="Mouse.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
